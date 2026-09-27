@@ -1,0 +1,2 @@
+gpt-researcher==0.15.1
+python-dotenv
